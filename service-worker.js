@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a90244f12a5067f7b0f17d54be072e63.js"
+  "/precache-manifest.ec94a8cca15a7a051df682526ff8b563.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "insurabase"});
